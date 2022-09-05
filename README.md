@@ -3,5 +3,5 @@
 
 It's essentially the `Presentation` theme with an adjusted font size.
 
-Place `Default (Midnight).xccolortheme` in `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`.
+Symlink `Default (Midnight).xccolortheme` to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`.
 
